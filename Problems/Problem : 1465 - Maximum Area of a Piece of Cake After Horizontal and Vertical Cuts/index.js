@@ -25,7 +25,7 @@ var maxArea = function (h, w, horizontalCuts, verticalCuts) {
       bigW = cut;
     }
   }
-  return Number(BigInt(bigH) * BigInt(bigW) % 1000000007n);
+  return Number(BigInt(bigH) * BigInt(bigW) % BigInt(1000000007));
 };
 
 console.log(maxArea(5, 4, [1, 2, 4], [1, 3])); // 4
