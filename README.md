@@ -1,10 +1,8 @@
 # Leet-Code
+#### Here I solved problems using javascript
 
-here I solved problems using javascript
 
-| # | Title | Solution | Difficulty |
+|   #   | Title                                 | Solution    | Difficulty |
+| ----  | ------------------------------------- | --------    | ---------- |
+| 92    | Reverse Linked List II                | Javascript  | Medium     |
 
-| #             | Title         | Solution    | Difficulty |
-| ------------- | ------------- | --------    | ---------- |
-| 92        | Test1         | `NewYork`   |
-| `Bob`         | Test2         | `Toronto`   |
