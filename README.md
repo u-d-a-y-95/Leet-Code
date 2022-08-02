@@ -10,6 +10,7 @@
 | 128   | Longest Consecutive Sequence          | Javascript  |  Hard      |
 | 135   | Candy                                 | Javascript  |  Hard      |
 | 376   | Wiggle Subsequence                    | Javascript  |  Medium    |
+| 378   | Kth Smallest Element in a Sorted Matrix | Javascript  |  Medium    |
 | 410   | Split Array Largest Sum               | Javascript  |  Hard      |
 | 463   | Island Perimeter                      | Javascript  |  Easy      |
 | 1465  | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts          | Javascript  |  Medium    |
